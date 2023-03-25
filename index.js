@@ -1,3 +1,5 @@
+// Type  node .\index.js  in the terminal to run this in the MongoDB Compass....
+
 const mongoose = require("mongoose");
 
 mongoose.connect("mongodb://localhost:27017/sample").then(() => {
