@@ -27,7 +27,7 @@ const adder = async () => {
 //     height:5
 // });
 
-    // for showing datat in database
+    // for showing data in database
     // const ss = await Student.find();
 
 
