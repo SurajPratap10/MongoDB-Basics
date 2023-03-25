@@ -8,7 +8,8 @@
 6) Create a collection named 'comments' : `db.createCollection('comments')`
 7) Drop a collection named 'comments' : `db.comments.drop()`
 8) Show all Rows in a Collection : `db.comments.find()`
-9) Show all Rows in a Collection (Pr`he object : `db.comments.findOne({name: 'Harry'})`
+9) Show all Rows in a Collection (Prettified) : `db.comments.find().pretty()`
+10) Find the first row matching the object : `db.comments.findOne({name: 'Suraj'})`
 11) Insert One Row : `db.comments.insert({
     'name': 'Suraj',
     'lang': 'React'
