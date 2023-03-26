@@ -3,7 +3,7 @@
 1) View all databases : `show dbs`
 2) Create a new or switch databases : `use dbName`
 3) View current Database : `db`
-4) Delete Database : `show dbs`
+4) Delete Database : `db.dropDatabase()`
 5) Show Collections : `show collections`
 6) Create a collection named 'comments' : `db.createCollection('comments')`
 7) Drop a collection named 'comments' : `db.comments.drop()`
