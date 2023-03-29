@@ -37,7 +37,7 @@
 17) Mongodb Increment Operator : `db.comments.update({name: 'Suraj'},
 {$inc:{
     age: 20
-}})
+}}) `
 18) Mongodb Rename Operator : `db.comments.update({name: 'Rohan'},
 {$rename:{
     age: 'Age'
