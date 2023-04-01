@@ -42,6 +42,6 @@
 {$rename:{
     age: 'Age'
 }})`
-19) Delete Row : `db.comments.remove({name: 'Rohan'})`
+19) Delete Row : `db.comments.remove({name: 'Lovish'})`
 20) Less than/Greater than/ Less than or Eq/Greater than or Eq : `db.comments.find({age: {$lt: 100}})
 ` , `db.comments.find({age: {$lte: 100}})` , `db.comments.find({age: {$gt: 100}})` , `db.comments.find({age: {$gte: 00}})`
