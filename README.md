@@ -1,4 +1,4 @@
-# MongoDB Commands:
+# Important MongoDB Commands:
 
 1) View all databases : `show dbs`
 2) Create a new or switch databases : `use dbName`
