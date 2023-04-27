@@ -14,7 +14,7 @@
     'name': 'Suraj',
     'lang': 'React'
  })`
- 12) Insert many Rows : `db.comments.insertMany([{'name': 'Suraj',
+ 12) Insert Many Rows : `db.comments.insertMany([{'name': 'Suraj',
     'lang': 'React',
     age : 19
     }, 
