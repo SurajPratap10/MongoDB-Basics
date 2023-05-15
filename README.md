@@ -1,5 +1,7 @@
 # Important MongoDB Commands:
 
+### MongoDB CheatSheet:
+
 1) View all databases : `show dbs`
 2) Create a new or switch databases : `use dbName`
 3) View current Database : `db`
